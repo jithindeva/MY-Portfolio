@@ -1,3 +1,3 @@
 # MY-Portfolio
-To Showcase my skills and talent
+Link to access my Portfolio
 https://jithindeva.github.io/MY-Portfolio/
